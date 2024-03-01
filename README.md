@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm passionate about turning code into innovative 
 
 ## Get in Touch
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" alt="GitHub Logo" width="40" height="40">](github.com/Innovatesharma)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" alt="GitHub Logo" width="40" height="40">](github.com/its-pksharma)
 [<img src="https://w7.pngwing.com/pngs/364/654/png-transparent-computer-icons-linkedin-symbol-miscellaneous-angle-text.png" alt="LinkedIn Logo" width="40" height="40">](https://www.linkedin.com/in/-pramod-sharma-/)
 [<img src="https://cdn-icons-png.flaticon.com/512/60/60580.png" alt="Image" width="40" height="40">](twitter.com/Pramods30781368)
 
