@@ -1,7 +1,7 @@
 # नमस्ते (Namaste), I'm Pramod Sharma!
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Pramods30781368?label=Follow&style=social)](https://twitter.com/Pramods30781368)
-[![GitHub Follow](https://img.shields.io/github/followers/Innovatesharma?label=Follow&style=social)](https://github.com/Innovatesharma)
+[![GitHub Follow](https://img.shields.io/github/followers/Innovatesharma?label=Follow&style=social)](https://github.com/its-pksharma)
 [![LinkedIn Connect](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/https://www.linkedin.com/in/-pramod-sharma-/)
 
 
